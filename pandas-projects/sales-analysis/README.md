@@ -26,3 +26,29 @@ Analyze the Superstore dataset using Pandas to identify sales trends, top-perfor
 - Sorting and Ranking
 - Business Analytics
 
+
+
+# Sales Analysis Project
+
+## Objective
+
+Analyze retail sales data using Python and Pandas.
+
+## Business Questions
+
+- Which category generates the most revenue?
+- Which products sell the most?
+- Which region performs best?
+- How do sales change over time?
+
+## Tools
+
+- Python
+- Pandas
+- Matplotlib
+
+## Key Findings
+
+- Technology generated the most revenue
+- West region had the highest sales
+- Canon imageCLASS 2200 Advanced Copier was the top product
